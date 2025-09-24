@@ -233,8 +233,7 @@ Para probar la API puedes usar:
 
 ## 👤 Autor
 
-Tu Nombre - Desarrollador Backend
-Email: tu-email@ejemplo.com
+Wendy Cardenas Villalobos- Desarrollador 
 
 ## 📄 Licencia
 
