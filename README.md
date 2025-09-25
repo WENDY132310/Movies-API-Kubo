@@ -201,10 +201,9 @@ users (N) >----< user_watched_movies >----< movies (N)
 
 Para probar la API puedes usar:
 
-- **Postman Collection**: [Importar aquí]
-- **Thunder Client** (VS Code)
-- **Insomnia**
-- **cURL** (ejemplos en documentación)
+- **Postman Collection** 
+Adjunto en el repositorio se encuentra la carpeta "postman_docs" donde encuentras la coleccion de prueba
+para los endpoints.
 
 ## 📝 Scripts NPM
 
@@ -221,15 +220,7 @@ Para probar la API puedes usar:
 - Helmet para headers de seguridad
 - CORS configurado
 
-## 🚀 Mejoras Futuras
 
-- [ ] Tests unitarios e integración
-- [ ] Documentación automática con Swagger
-- [ ] Rate limiting
-- [ ] Logs estructurados
-- [ ] Cache con Redis
-- [ ] Websockets para tiempo real
-- [ ] Dockerización completa
 
 ## 👤 Autor
 
