@@ -81,35 +81,6 @@ npm run seed
 npm run dev
 
 
-## 🌐 Despliegue en Heroku
-
-1. **Crear app en Heroku**
-```bash
-heroku create tu-movies-api
-```
-
-2. **Añadir base de datos MySQL**
-```bash
-heroku addons:create jawsdb:kitefin
-```
-
-3. **Configurar variables de entorno**
-```bash
-heroku config:set NODE_ENV=production
-heroku config:set JWT_SECRET=tu_jwt_secret_muy_seguro
-```
-
-4. **Desplegar**
-```bash
-git push heroku main
-```
-
-5. **Ejecutar migraciones en producción**
-```bash
-heroku run npm run migrate
-heroku run npm run seed
-```
-
 ## 📚 Documentación API
 
 ### Endpoints Principales
